@@ -1,13 +1,14 @@
 ## Выполнение terraform apply
-<img width="647" height="193" alt="1" src="https://github.com/user-attachments/assets/e8557163-5185-4448-8a60-6a000f476b1a" />
+<img width="637" height="206" alt="1" src="https://github.com/user-attachments/assets/16f98db4-1eb2-4357-8f42-03eb7c4507b9" />
 
-## Проверка интернета с публичной ВМ
-<img width="594" height="458" alt="2" src="https://github.com/user-attachments/assets/154d81fd-359b-41bb-bf2e-ccf6c1a417c4" />
+## Доступность картинки с backet
+<img width="1571" height="999" alt="2" src="https://github.com/user-attachments/assets/e26b987e-a311-47f3-8922-040cefe27486" />
 
-## Проверка интернета с приватной ВМ
-<img width="599" height="459" alt="3" src="https://github.com/user-attachments/assets/5ef3a3bf-c235-4f45-9c2c-5c743573d04c" />
+## Доступность картинки из группы ВМ
+<img width="1395" height="995" alt="3" src="https://github.com/user-attachments/assets/c9cf03dd-b42c-4ed0-a3af-2e3efc9444cc" />
 
 ## Консоль Yandex Cloud
-<img width="1521" height="234" alt="4" src="https://github.com/user-attachments/assets/7c9d9cee-0b47-4e50-8ba4-91b83d8471f5" />
+<img width="1600" height="559" alt="4" src="https://github.com/user-attachments/assets/e2057f3e-0966-4978-9297-e85f181662ce" />
 
-<img width="1026" height="165" alt="5" src="https://github.com/user-attachments/assets/6133f8ac-aaf0-4610-80e6-69d9b321cecd" />
+## Доступность картинки при отлюченых 2х машинах
+<img width="1594" height="891" alt="5" src="https://github.com/user-attachments/assets/644e6472-703d-439a-830a-1a1aa2306e43" />
